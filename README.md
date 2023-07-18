@@ -1,7 +1,7 @@
 ---
 description: >-
-  Swiftly work on your awesome project! Do what you are good at, writing
-  incredible code; we will manage the rest.
+  Swiftly works on your awesome project. Do what you are good at—writing
+  incredible code; and we'll manage the rest!
 ---
 
 # Swiftly
